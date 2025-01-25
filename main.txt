@@ -1,0 +1,3 @@
+i
+This is the first command list for creating file in the folder in github
+this is the second line after saving the file and making changes to the file to give permmissions to the file with the nnumber 6
